@@ -150,7 +150,7 @@ body {
         text-align: left;
     }
     .card-content {
-        margin-top: auto 0;
+        margin: auto 0;
         width: 350px;
     }
 }
